@@ -68,30 +68,6 @@ ASP.NET Core · PostgreSQL · Java · Spring Boot · Docker
 
 ---
 
-### Проекты
-
-**Dormitory Management System**
-
-Full-stack система управления студенческим общежитием на ASP.NET Core и React. Серверная бизнес-логика, REST API, работа с базой данных и пользовательский веб-интерфейс.
-
-**[IT School CRM](https://github.com/nast-art/itschool-crm)**
-
-CRM-система для управления взаимодействием с образовательными организациями. Командный хакатонный проект.
-
-`ASP.NET Core` · `Entity Framework Core` · `PostgreSQL` · `React` · `Docker` · `Keycloak` · `KeyDB`
-
-**[FSP Platform](https://github.com/nast-art/FspPlatform)**
-
-Платформа подбора и оценки кандидатов. Командный хакатонный проект с серверной частью на C#/.NET.
-
-**Desktop-приложения**
-
-Системы управления кинотеатром и фотоцентром. Разработка интерфейсов, реализация бизнес-логики и взаимодействие с базами данных.
-
-`C#` · `WPF` · `XAML` · `SQL Server`
-
----
-
 ### Карьера
 
 Рассматриваю стажировки и junior-позиции в backend-разработке на C#/.NET и Java.
